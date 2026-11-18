@@ -1,0 +1,9 @@
+
+    <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+      <rect width="100%" height="100%" fill="#17111d"/>
+      <path d="M0 0L1600 900M1600 0L0 900" stroke="#ffb8df" stroke-opacity=".16" stroke-width="4"/>
+      <rect x="96" y="72" width="1408" height="756" rx="31.500000000000004" fill="none" stroke="#ffb8df" stroke-opacity=".45" stroke-width="4"/>
+      <circle cx="800" cy="378" r="72" fill="#ffb8df" fill-opacity=".14"/>
+      <text x="50%" y="62%" text-anchor="middle" fill="#ffb8df" font-family="Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="9.520000000000001">PLACEHOLDER 002</text>
+    </svg>
+  
